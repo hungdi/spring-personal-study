@@ -40,3 +40,21 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# 🔧 IntelliJ
+.idea/
+
+# 🛠 Build
+target/
+
+# 🔍 Logs
+*.log
+
+# 💻 OS
+Thumbs.db
+
+# 🧪 Test outputs
+test-output/
+
+# 🔐 환경 변수
+.env
